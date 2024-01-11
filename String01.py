@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    s="water sky loop"
+    a=s.title()
+    return a
+print(main('s'))
