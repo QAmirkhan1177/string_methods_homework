@@ -6,5 +6,6 @@ def main(s):
     Returns:
         bool: answer
     """
-    
-    return
+    return s.isupper()
+a=main("FOUL")
+print (a)   
