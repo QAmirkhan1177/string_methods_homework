@@ -4,7 +4,8 @@ def main(s):
     Args:
         s: str
     Returns:
-        bool: answer
+        boolf: answer
     """
-    
-    return
+    return s.islower()
+a=main("chipi chipi chapa chapa dubi dubi daba daba ")
+print (a)
