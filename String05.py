@@ -6,5 +6,6 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    return s.capitalize()
+a=main("chipi chipi chapa chapa dubi dubi daba daba ")
+print (a)   
