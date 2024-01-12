@@ -6,5 +6,7 @@ def main(s):
     Returns:
         int: answer
     """
+    return s.count("x")
+a=main("weeeeeeeeeeeeex")
+print (a)   
     
-    return
