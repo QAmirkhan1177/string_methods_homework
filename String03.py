@@ -6,7 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    s="GYM REST BUSS"
-    a=s.lower()
-    return a
-print(main('s'))   
+    
+    return s.lower()
+a=main("STUTUTU")
+print(a)   
