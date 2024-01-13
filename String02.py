@@ -6,7 +6,8 @@ def main(s):
     Returns:
         str: answer
     """
-    s="water sky apple"
-    a=s.upper()
-    return a
-print(main('s'))   
+    
+    
+    return s.upper()
+a=main("lord")
+print(a)   
